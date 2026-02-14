@@ -1,8 +1,8 @@
 # Docs:
 
-Datasheet: available at [https://www.qorvo.com/products/p/QPG6200L#documents]
+Datasheet: available at <https://www.qorvo.com/products/p/QPG6200L#documents>
 
-SDK: docs at [https://qorvo_sdk.gitlab.io/public/devkits/qpg6200-iot-sdk/QPG6200-IoT-SDK/2.0.1/sphinx/docs/QUICKSTART.html#install-the-sdk]
+SDK: docs at <https://qorvo_sdk.gitlab.io/public/devkits/qpg6200-iot-sdk/QPG6200-IoT-SDK/2.0.1/sphinx/docs/QUICKSTART.html#install-the-sdk>
 
 # SDK installation
 
