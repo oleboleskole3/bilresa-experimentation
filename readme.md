@@ -10,7 +10,7 @@ Having just purchased an IKEA bilresa remote, and being dissatisfied with it's z
 
 After disassembling the device, I discovered that the network processor sits on its own little board, likely IKEA reuses this board on other matter devices to reduce complexity whilst developing their products
 
-![The IKEA network processor board from the front[(media/network_board_front_1.png)
+![The IKEA network processor board from the front](media/network_board_front_1.png)
 ![The IKEA network processor board from the back](media/network_board_back_1.png)
 ![The IKEA network processor board from the front again](media/network_board_front_2.png)
 ![The IKEA network processor board from the back again](media/network_board_back_2.png)
